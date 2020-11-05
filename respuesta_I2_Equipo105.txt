@@ -1,1 +1,6 @@
+Facundo Gabriel Falcioni
+Pablo Nahuel Acosta
+Federico Agutín Ortiz
 
+c- Sí, clonando el repositorio de ALFA
+d- Los datos se pierden si actualizo el fork.
